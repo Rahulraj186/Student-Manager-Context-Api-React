@@ -1,0 +1,22 @@
+.container {
+  background-color: antiquewhite;
+}
+
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+.btn-container {
+  display: flex;
+  justify-content: center;
+}
+button {
+  cursor: pointer;
+  border-color: aquamarine;
+  background-color: rgb(78, 160, 93);
+  height: 30px;
+  width: 200px;
+  border-radius: 20px;
+}
